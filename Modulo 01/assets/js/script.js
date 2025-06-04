@@ -27,6 +27,8 @@ console.log(nomeCompleto + " " + idadeString)
 */
 
 /*
+//Estruturas condicionais
+
 let idade = 90
 
 if (idade >= 18) {
@@ -75,7 +77,6 @@ else{
 */
 
 //condicional ternaria
-
 /*
 let isMember = true;
 let shipping = isMember ? 2 : 10;
